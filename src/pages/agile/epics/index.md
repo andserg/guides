@@ -2,7 +2,9 @@
 title: Epics
 ---
 ## Epics
-A large story or scenario that guides the creation of the software product. Epics usually cover a particular persona and give an overall idea of what is important to the user. An epic can be further broken down into various user stories that show individual tasks that a persona/user would like to perform.
+
+- What is an Epic?
+An epic is a large body of work that can be broken down into a number of smaller stories. For example, database related, performance related or any big feature which needs to be delivered over the time and subsequent phases. User stories will be added and removed to optimize the software release time. Epics are delivered in number of sprints spanning over a month or more.
 
 ### Epic Example
 In an application what helps freelance painters track their projects, a possible epic could be.

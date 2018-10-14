@@ -15,3 +15,13 @@ You can build some pretty amazing things in CSS alone, such as <a href='https://
 #### Suggested Reading:
 
 A good start is the current Beta <a href='https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/seed/challenges/01-responsive-web-design/basic-css.json#L14' target='_blank' rel='nofollow'>introduction for the CSS challenges</a>
+
+#### Best courses ####
+
+Learn HTML & CSS Free (https://ilovecoding.org/courses/learn-html-css-in-14-days)
+W3Schools documentation (http://www.w3schools.com/)
+Learn CSS (http://www.csstutorial.net/)
+Ultimate guide to learning css (http://www.csstutorial.net/)
+
+some paid courses:
+ CSS - The Complete Guide (incl. Flexbox, Grid & Sass) (https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass)
